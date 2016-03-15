@@ -4,7 +4,7 @@ process_speakers([
     "member": "brandewinder",
     "location": "San Francisco, CA, United States",
     "lat": 37.7833,
-    "lng": 122.4167,
+    "lng": -122.4167,
     "travel-zone": "United States West Coast",
     "travel-distance": 1000,
     "bio": "Figuring out things, one model at a time. F# globe-trotter.",
