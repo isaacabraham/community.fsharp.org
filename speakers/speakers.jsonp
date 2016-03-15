@@ -5,10 +5,10 @@ process_speakers([
     "location": "San Francisco, CA, United States",
     "lat": 37.7833,
     "lng": 122.4167,
-    "travel-zone": "United States West Coast"
-    "travel-distance": 1000
+    "travel-zone": "United States West Coast",
+    "travel-distance": 1000,
     "bio": "Figuring out things, one model at a time. F# globe-trotter.",
-    "talks": [ "F# for the C# developer", "Machine Learning with F#", "The Great @fsibot Caper" ]
+    "talks": [ "F# for the C# developer", "Machine Learning with F#", "The Great @fsibot Caper" ],
     "tags": [ "machine-learning", "hands-on" ]
 }
 ]);
