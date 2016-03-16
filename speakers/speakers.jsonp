@@ -10,5 +10,17 @@ process_speakers([
     "bio": "Figuring out things, one model at a time. F# globe-trotter.",
     "talks": [ "F# for the C# developer", "Machine Learning with F#", "The Great @fsibot Caper" ],
     "tags": [ "machine-learning", "hands-on" ]
+},
+{
+    "name":"Reed Copsey",
+    "member": "reedcopsey",
+    "location": "Bellingham, WA, United States",
+    "lat": 48.7482375,
+    "lng": -122.4792122,
+    "travel-zone": "United States Northwest",
+    "travel-distance": 200,
+    "bio": "Executive Director of the F# Software Foundation, CTO of C Tech Development Corporation.",
+    "talks": [ "How F# made me a better C# and C++ developer" ],
+    "tags": [ "ui" ]
 }
 ]);
