@@ -28,7 +28,7 @@ process_speakers([
     "member": "rikace",
     "location": "Washington DC, DC, United States",
     "lat": 38.9047,
-    "lng": 77.0164,
+    "lng": -77.0164,
     "travel-zone": "United States",
     "travel-distance": 500,
     "bio": "Functional guy living in an imperative world and polyglot programming believer",
