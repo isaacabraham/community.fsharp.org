@@ -22,5 +22,17 @@ process_speakers([
     "bio": "Executive Director of the F# Software Foundation, CTO of C Tech Development Corporation.",
     "talks": [ "How F# made me a better C# and C++ developer" ],
     "tags": [ "ui" ]
+},
+{
+    "name":"Riccardo Terrell",
+    "member": "rikace",
+    "location": "Washington DC, DC, United States",
+    "lat": 38.9047,
+    "lng": 77.0164,
+    "travel-zone": "United States",
+    "travel-distance": 500,
+    "bio": "Functional guy living in an imperative world and polyglot programming believer",
+    "talks": [ "10 Wins with F# Scripts", "Actor Clustering with Docker Containers and Akka.Net in F#", "Functional Reactive Programming for Natural User Interface", "Choose the right concurrency model in .NET" ],
+    "tags": [ "scripting", "akka", "concurrency", "docker", "frp" ]
 }
 ]);
