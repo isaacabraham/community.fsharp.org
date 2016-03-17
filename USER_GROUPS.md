@@ -11,9 +11,9 @@ Please follow these guidelines when submitting a pull request:
 - List your group alphabetically
 - Fill in all information, following the format of existing entries
 - Latitude and Longitude values are used to place the group using the Google Maps API.  
-..*Google Maps is recommended to determine coordinate.
-..*Visit [Google Maps](https://www.google.com/maps), Zoom to your location, and click on the map where your group most commonly meets.
-..*Copy latitude and longtiude from white box at the bottom of the screen.
+-- Google Maps is recommended to determine coordinate.
+-- Visit [Google Maps](https://www.google.com/maps), Zoom to your location, and click on the map where your group most commonly meets.
+-- Copy latitude and longtiude from white box at the bottom of the screen.
 - The "contact" field is optional, and is the full name of the person whom should be listed as the contact for the group.
 - Please verify that resulting data follows all JSON rules, including correctly handling (or avoiding) embedded quotation marks in the description, etc.
 - If your group is an F# specific user group, please list the "fsharp_group" field as `true`.  If it is a general functional programming or other programming language group, but is open to having F# speakers, list it as `false`.

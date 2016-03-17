@@ -11,12 +11,12 @@ Please follow these guidelines when submitting a pull request:
 - List yourself alphabetically _by full name_
 - Fill in all information, following the format of existing entries
 - For "member", please use your F# Software Foundation username.
-..*To find your username, login to [http://foundation.fsharp.org](http://foundation.fsharp.org), and click on the gear icon in the upper right.
-..*Your username will be on the left, labeled "User name"
+-- To find your username, login to [http://foundation.fsharp.org](http://foundation.fsharp.org), and click on the gear icon in the upper right.
+-- Your username will be on the left, labeled "User name"
 - Latitude and Longitude values are used to place the speaker using the Google Maps API.  
-..*Google Maps is recommended to determine coordinate.
-..*Visit [Google Maps](https://www.google.com/maps), Zoom to your location, and click on the map where you live or work.
-..*Copy latitude and longtiude from white box at the bottom of the screen.
+-- Google Maps is recommended to determine coordinate.
+-- Visit [Google Maps](https://www.google.com/maps), Zoom to your location, and click on the map where you live or work.
+-- Copy latitude and longtiude from white box at the bottom of the screen.
 - For "travel-zone", enter a plain text description of the region where you will travel to speak ("Northern France")
 - For "travel-distance", enter the approximate distance (in _km_) you are willing to travel.
 - Please keep your biography brief.
