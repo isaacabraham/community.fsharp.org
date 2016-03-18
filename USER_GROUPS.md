@@ -4,7 +4,7 @@
 
 The [User Groups](http://community.fsharp.org/user_groups) map and page are based off data stored here. If you manage a user group where F# talks are welcome, you are encouraged to add your group to the list managed by the F# Software Foundation.
 
-The data is stored in a JSONP document at [https://github.com/fsharp/community.fsharp.org/blob/gh-pages/user_groups/groups.jsonp](https://github.com/fsharp/community.fsharp.org/blob/gh-pages/user_groups/groups.jsonp).  Pull requests against this data are welcome, though you may also email your information to [speakers@fsharp.org](mailto:speakers@fsharp.org) to have your group listed.
+The data is stored in a JSONP document at [https://github.com/fsharp/community.fsharp.org/blob/gh-pages/user_groups/groups.jsonp](https://github.com/fsharp/community.fsharp.org/blob/gh-pages/user_groups/groups.jsonp).  Pull requests against this data are welcome, though you may also email your information to [usergroups@fsharp.org](mailto:usergroups@fsharp.org) to have your group listed.
 
 Please follow these guidelines when submitting a pull request:
 

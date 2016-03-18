@@ -1,3 +1,5 @@
+// For instructions on editing this file, please visit:
+// https://github.com/fsharp/community.fsharp.org/blob/gh-pages/SPEAKERS.md
 process_speakers([
 {
     "name":"Krzysztof Cieslak",
