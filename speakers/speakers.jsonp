@@ -1,5 +1,17 @@
 process_speakers([
 {
+    "name":"Krzysztof Cieslak",
+    "member": "k_cieslak",
+    "location": "Lodz, Poland",
+    "lat": 51.75,
+    "lng":  19.45,
+    "travel-zone": "Europe",
+    "travel-distance": 1000,
+    "bio": "Open Source hacker",
+    "talks": [ "F# Open Source ecosystem", "Functional Web - F# and Elm"  ],
+    "tags": [ "open source", "tooling", "web" ]
+},
+{
     "name":"Mathias Brandewinder",
     "member": "brandewinder",
     "location": "San Francisco, CA, United States",
@@ -34,17 +46,5 @@ process_speakers([
     "bio": "Functional guy living in an imperative world and polyglot programming believer",
     "talks": [ "10 Wins with F# Scripts", "Actor Clustering with Docker Containers and Akka.Net in F#", "Functional Reactive Programming for Natural User Interface", "Choose the right concurrency model in .NET" ],
     "tags": [ "scripting", "akka", "concurrency", "docker", "frp" ]
-}
-{
-    "name":"Krzysztof Cieslak",
-    "member": "k_cieslak",
-    "location": "Lodz, Poland",
-    "lat": 51.75,
-    "lng":  19.45,
-    "travel-zone": "Europe",
-    "travel-distance": 1000,
-    "bio": "Open Source hacker",
-    "talks": [ "F# Open Source ecosystem", "Functional Web - F# and Elm"  ],
-    "tags": [ "open source", "tooling", "web" ]
 }
 ]);
