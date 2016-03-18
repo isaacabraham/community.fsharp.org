@@ -132,16 +132,6 @@ process_groups([
     "lng":19.4874598
 },
 {
-    "name":"F# Dublin",
-    "website":"http://www.meetup.com/F-Dublin/",
-    "location":"Dublin, Ireland",
-    "contact":"",
-    "fsharp_group":true,
-    "description":"This is a group for anyone interested in F# and Functional Programming generally. All levels of ability and experience are welcome. We'll try to meet monthly and together we'll figure out how to rewire our brains to think and code functionally.",
-    "lat":53.345214,
-    "lng":-6.254225
-},
-{
     "name":"F# Milano",
     "website":"http://www.meetup.com/FSharp-Milano/",
     "location":"Milano, Italy",
@@ -210,16 +200,6 @@ process_groups([
     "description":"F# User Group - Japan \u306f\u3001Microsoft\u304c\u958b\u767a\u3059\u308b\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u300eF#\u300f\u306e\u30e6\u30fc\u30b6\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u3067\u3059\u3002Fortran\u306e\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002 F#\u306f\u95a2\u6570\u578b\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u3092\u8ef8\u3068\u3059\u308b\u3001\u30de\u30eb\u30c1\u30d1\u30e9\u30c0\u30a4\u30e0\u8a00\u8a9e\u3067\u3059\u3002Fortran\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002 \u304a\u6c17\u8efd\u306b\u3054\u53c2\u52a0\u304f\u3060\u3055\u3044\uff01\u10da(\u2579\u25e1\u2579\u10da)",
     "lat":43.05945,
     "lng":141.3705
-},
-{
-    "name":"F# User Group China",
-    "website":"http://www.imqq.com/",
-    "location":"Virtual Group, China",
-    "contact":"",
-    "fsharp_group":true,
-    "description":"A virtual user group for Chinese F# programmer. The community uses QQ to exchange F# programming ideas in real time. The QQ group number is 61436709, which can be found by following the instructions. Please join and share up-to-date information, questions, and tips related to F#.",
-    "lat":31.2243489,
-    "lng":121.4767528
 },
 {
     "name":"F#unctional Londoners Meetup Group",
@@ -320,16 +300,6 @@ process_groups([
     "description":"A user group focusing on functional programming in all of its forms. We meet at different locations in the beautiful city of Stockholm to discuss what we enjoy - functional programming.",
     "lat":59.326142,
     "lng":17.9875455
-},
-{
-    "name":"Functional South Coast",
-    "website":"http://www.meetup.com/Functional-South-Coast/",
-    "location":"Southampton, United Kingdom",
-    "contact":"",
-    "fsharp_group":false,
-    "description":"We're interested in functional programming and will be looking at a variety of languages over the coming months. We plan to have speaker sessions and kata sessions. Our first session will be taking place in the new year, so if you're interested come join us!",
-    "lat":50.9355174,
-    "lng":-1.3963981
 },
 {
     "name":"Gauteng F# Programming Meetup",
@@ -552,16 +522,6 @@ process_groups([
     "lng":-122.4027293
 },
 {
-    "name":"Santa Monica F# Meetup",
-    "website":"http://www.meetup.com/Santa-Monica-F-Programming-Meetup/",
-    "location":"Santa Monica, CA, United States",
-    "contact":"",
-    "fsharp_group":true,
-    "description":"We are looking to host events where people who are interested in F# can get together and learn/share their experiences in the F# ecosystem.  From informal gatherings at a local bar to coding dojo's to speaker events.  We are looking for developers who have experience in other functional languages to come an learn what F# has to offer, and to share what other communities have to offer back to F#.  \r\n\r\nOverall we provide a safe, respectful and fun environment for all to grow and learn together. Ladies, minorities, beginners - we are doing our best to make you feel all welcome.",
-    "lat":34.0210835,
-    "lng":-118.4661156
-},
-{
     "name":"Silicon Valley F#",
     "website":"http://www.meetup.com/Silicon-Valley-FSharp/",
     "location":"Mountain View, CA, United States",
@@ -580,16 +540,6 @@ process_groups([
     "description":"This group is for all the Singapore-based lambda lovers who are passionate about sharing their knowledge and experience in their functional programming lives.",
     "lat":1.3054183,
     "lng":103.7898178
-},
-{
-    "name":"snowcode",
-    "website":"http://www.meetup.com/snowcode/",
-    "location":"La Clusaz, France",
-    "contact":"",
-    "fsharp_group":false,
-    "description":"DEVELOPERS + SNOW + PARTY = SNOWCODEWE WILL CODE. WE SKI/BOARD. WE WILL CHILL. NO BOUNDARIES >>Thanks for visiting the snowcode meetup group and we look forward to meeting you. Snowcode 2010 and 2011 and 2012 turned out to be amazing bashes, we had between 16 and 20 hot UK (and Dutch) developers sharing a luxury Chalet in France across all s/ware disciplines, iphone, ruby, rake, F# etc. In 2012 we had a themed year with the theme of Javascript, Html5 and Node.js.\nPlease checkout the photos in this meetup group to see photos from snowcode 2010 and 2011. For fotos of snowcode 2012 checkout the fotos at camdug. (Snowcode is the premier annual event of the camdug user group.)",
-    "lat":45.8982734,
-    "lng":6.4654095
 },
 {
     "name":"The Budapest Functional Programming Group",
