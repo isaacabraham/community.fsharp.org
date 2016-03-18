@@ -1,3 +1,5 @@
+// For instructions on editing this file, please visit:
+// https://github.com/fsharp/community.fsharp.org/blob/gh-pages/USER_GROUPS.md
 process_groups([
 {
     "name":"ALT.NET Berlin",
