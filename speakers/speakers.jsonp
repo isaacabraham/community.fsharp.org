@@ -2,6 +2,18 @@
 // https://github.com/fsharp/community.fsharp.org/blob/gh-pages/SPEAKERS.md
 process_speakers([
 {
+    "name":"Alena Hall",
+    "member": "lenadroid",
+    "location": "Portland, OR, USA",
+    "lat": 45.555228,
+    "lng": -122.681600,
+    "travel-zone": "United States West Coast",
+    "travel-distance": 1000,
+    "bio": "Solutions Arhitect doing lot's of big data work. Distributed systems. Cloud. Microservices. High load.",
+    "talks": [],
+    "tags": [ "distributed systems", "cloud", "big data", "microservices", "data analysis" ]
+},
+{
     "name":"Krzysztof Cieslak",
     "member": "k_cieslak",
     "location": "Lodz, Poland",
