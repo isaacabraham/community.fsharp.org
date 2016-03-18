@@ -9,7 +9,7 @@ process_speakers([
     "lng": -122.681600,
     "travel-zone": "United States West Coast",
     "travel-distance": 1000,
-    "bio": "Solutions Arhitect doing lot's of big data work. Distributed systems. Cloud. Microservices. High load.",
+    "bio": "Solutions Architect doing lot's of big data work. Distributed systems. Cloud. Microservices. High load.",
     "talks": [],
     "tags": [ "distributed systems", "cloud", "big data", "microservices", "data analysis" ]
 },
