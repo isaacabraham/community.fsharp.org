@@ -14,6 +14,18 @@ process_speakers([
     "tags": [ "distributed systems", "cloud", "big data", "microservices", "data analysis" ]
 },
 {
+    "name":"Eriawan Kusumawardhono",
+    "member": "eriawan",
+    "location": "Jakarta, DKI Jakarta, Indonesia",
+    "lat": -6.2295712,
+    "lng": 106.759478,12,
+    "travel-zone": "South East Asia, Australia",
+    "travel-distance": 2000,
+    "bio": "Software architect/Senior software developer doing many of combined data centrics app for desktop and UI",
+    "talks": [ "Putting the fun in functional programming in F#" ]
+    "tags" : [ "ui", "cloud", "big data", "olap" ]
+},
+{
     "name":"Krzysztof Cieslak",
     "member": "k_cieslak",
     "location": "Lodz, Poland",
