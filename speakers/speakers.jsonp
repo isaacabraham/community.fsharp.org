@@ -14,6 +14,18 @@ process_speakers([
     "tags": [ "distributed systems", "cloud", "big data", "microservices", "data analysis" ]
 },
 {
+    "name":"Edgar Sánchez",
+    "member": "edgarsanchez",
+    "location": "Quito, Ecuador",
+    "lat": -0.195286,
+    "lng": -78.485655,
+    "travel-zone": "United States, Latin America, Europe",
+    "travel-distance": 5000,
+    "bio": "Business apps developer. Machine learning. Predictive analytics. Microsoft Regional Director. Trail running & triathlon.",
+    "talks": ["Why F# matters"],
+    "tags": [ "machine learning", "Azure", "predictive analytics", "Power BI" ]
+},
+{
     "name":"Eriawan Kusumawardhono",
     "member": "eriawan",
     "location": "Jakarta, DKI Jakarta, Indonesia",
