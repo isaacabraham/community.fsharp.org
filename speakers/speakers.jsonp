@@ -18,7 +18,7 @@ process_speakers([
     "member": "eriawan",
     "location": "Jakarta, DKI Jakarta, Indonesia",
     "lat": -6.2295712,
-    "lng": 106.759478,12,
+    "lng": 106.759478,
     "travel-zone": "South East Asia, Australia",
     "travel-distance": 2000,
     "bio": "Software architect/Senior software developer doing many of combined data centrics app for desktop and UI",
