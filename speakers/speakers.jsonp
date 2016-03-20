@@ -22,7 +22,7 @@ process_speakers([
     "travel-zone": "South East Asia, Australia",
     "travel-distance": 2000,
     "bio": "Software architect/Senior software developer doing many of combined data centrics app for desktop and UI",
-    "talks": [ "Putting the fun in functional programming in F#" ]
+    "talks": [ "Putting the fun in functional programming in F#" ],
     "tags" : [ "ui", "cloud", "big data", "olap" ]
 },
 {
