@@ -60,8 +60,8 @@ process_speakers([
     "lat": 35.77,
     "lng":  -78.97,
     "travel-zone": "Solar System",
-    "travel-distance": 5 AU,
-    "bio": "https://mvp.microsoft.com/en-us/PublicProfile/5000814",
+    "travel-distance": 897587224,
+    "bio": "coder",
     "talks": [ "The Business Case For F#", "Injecting Analytics Into Business Applications" ],
     "tags": [ "machine-learning", "enterprise development" ]
 },
