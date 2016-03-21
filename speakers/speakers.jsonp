@@ -1,4 +1,4 @@
-// For instructions on editing this file, please visit:
+﻿// For instructions on editing this file, please visit:
 // https://github.com/fsharp/community.fsharp.org/blob/gh-pages/SPEAKERS.md
 process_speakers([
 {
@@ -52,6 +52,18 @@ process_speakers([
     "bio": "Software architect/Senior software developer doing many of combined data centrics app for desktop and UI",
     "talks": [ "Putting the fun in functional programming in F#" ],
     "tags" : [ "ui", "cloud", "big data", "olap" ]
+},
+{
+    "name":"Jamie Dixon",
+    "member": "jamie_dixon",
+    "location": "Cary, NC USA",
+    "lat": 35.77,
+    "lng":  -78.97,
+    "travel-zone": "Solar System",
+    "travel-distance": 5 AU,
+    "bio": "https://mvp.microsoft.com/en-us/PublicProfile/5000814",
+    "talks": [ "The Business Case For F#", "Injecting Analytics Into Business Applications" ],
+    "tags": [ "machine-learning", "enterprise development" ]
 },
 {
     "name":"Krzysztof Cieslak",
